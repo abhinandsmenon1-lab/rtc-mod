@@ -1,0 +1,10 @@
+{
+  "name": "rtc-mod-bot",
+  "version": "1.0.0",
+  "description": "Discord moderation bot with warns, perm warns, configs, mod logs, and slash/prefix commands.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "dependencies": { "discord.js": "^14.15.3", "dotenv": "^16.4.5" },
+  "engines": { "node": ">=18" }
+}
