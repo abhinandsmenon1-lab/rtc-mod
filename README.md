@@ -50,4 +50,4 @@ Admin-only utility slash commands:
 ## Notes
 - Regular warns and permanent warns are stored in `data.json`.
 - At 3 total warns, bot removes the user's highest removable role, clears regular warns, and keeps permanent warns.
-- Mods can only warn/moderate members below their highest role.
+- Mods can only warn/moderate members below their highest role..
